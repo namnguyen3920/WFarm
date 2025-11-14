@@ -1,0 +1,2 @@
+id,name,base_level,max_level,base_productivity,base_upgrade_cost
+field_basic,Basic Field,1,10,1.0,500

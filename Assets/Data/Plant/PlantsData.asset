@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a387d87032880540b94fc009e8ab604, type: 3}
+  m_Name: PlantsData
+  m_EditorClassIdentifier: 
+  itemList:
+  - _id: plant_tomato
+    displayName: Tomato Plant
+    itemPrefab: {fileID: 0}
+    itemSprite: {fileID: 0}
+    productPrice: 0
+    itemCategory: 1
+    item: 0
+    itemType: 0
+    plantGrowPrefab:
+    - {fileID: 8294861877419955506, guid: 77516b3217b98e74997142707a090134, type: 3}
+    - {fileID: 8982781449367380005, guid: ca63044514ade0e44a7bea45fcf96e1f, type: 3}
+    - {fileID: 5857648003427590946, guid: f831c2e027b78914f881d3f2328e9c9d, type: 3}
+    stageGrowTimes:
+    - 5
+    - 5
+    maxHarvest: 10
+    harvestProduct:
+      _id: product_tomato
+      displayName: Tomato Product
+      itemPrefab: {fileID: 3711648499689378353, guid: b6395983d63ca3d4abb8916b73d906c5, type: 3}
+      itemSprite: {fileID: 21300000, guid: 7fc51877c0ce5ae41962f0c3880107b0, type: 3}
+      productPrice: 5
+      itemCategory: 2
+      item: 7
+      itemType: 1
+    harvestAmount: 1
+  - _id: plant_blueberry
+    displayName: Blueberry Plant
+    itemPrefab: {fileID: 0}
+    itemSprite: {fileID: 0}
+    productPrice: 0
+    itemCategory: 1
+    item: 0
+    itemType: 0
+    plantGrowPrefab:
+    - {fileID: 5676606481995543459, guid: 3b702ecffc615554bb55da13b0e5434f, type: 3}
+    - {fileID: 8982781449367380005, guid: ca63044514ade0e44a7bea45fcf96e1f, type: 3}
+    - {fileID: 5857648003427590946, guid: f831c2e027b78914f881d3f2328e9c9d, type: 3}
+    stageGrowTimes:
+    - 5
+    - 7
+    maxHarvest: 10
+    harvestProduct:
+      _id: product_blueberry
+      displayName: Blueberry Product
+      itemPrefab: {fileID: 3711648499689378353, guid: b6395983d63ca3d4abb8916b73d906c5, type: 3}
+      itemSprite: {fileID: 21300000, guid: b6f6dad7e89f0324fa3f58431ef93434, type: 3}
+      productPrice: 8
+      itemCategory: 2
+      item: 8
+      itemType: 1
+    harvestAmount: 1
+  - _id: plant_strawberry
+    displayName: Strawberry Plant
+    itemPrefab: {fileID: 0}
+    itemSprite: {fileID: 0}
+    productPrice: 0
+    itemCategory: 1
+    item: 0
+    itemType: 0
+    plantGrowPrefab:
+    - {fileID: 4647193970417791330, guid: b96ab5838b5157c41a9b6d7d552b2ab5, type: 3}
+    - {fileID: 8982781449367380005, guid: ca63044514ade0e44a7bea45fcf96e1f, type: 3}
+    - {fileID: 5857648003427590946, guid: f831c2e027b78914f881d3f2328e9c9d, type: 3}
+    stageGrowTimes:
+    - 10
+    - 10
+    maxHarvest: 10
+    harvestProduct:
+      _id: product_strawberry
+      displayName: Strawberry Product
+      itemPrefab: {fileID: 3711648499689378353, guid: b6395983d63ca3d4abb8916b73d906c5, type: 3}
+      itemSprite: {fileID: 21300000, guid: 7728949c4b8f50643b1547428ac9728d, type: 3}
+      productPrice: 12
+      itemCategory: 2
+      item: 9
+      itemType: 1
+    harvestAmount: 1

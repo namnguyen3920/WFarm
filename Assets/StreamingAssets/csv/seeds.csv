@@ -1,0 +1,5 @@
+id,name,type,base_time_min,die_counter,price,output_amount,stack_unit
+tomato,Tomato,plant,10,40,5,1,seed_pack
+blueberry,BlueBerry,plant,15,40,8,1,seed_pack
+strawberry,Strawberry,plant,12,40,15,1,seed_pack
+cow,Cow,animal,30,,15,1,unit

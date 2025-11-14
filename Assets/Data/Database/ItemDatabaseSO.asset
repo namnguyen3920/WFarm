@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b5489eb404f05f48b4973da102966bf, type: 3}
+  m_Name: ItemDatabaseSO
+  m_EditorClassIdentifier: 
+  itemList: []
+  seedDatabase: {fileID: 11400000, guid: 406733f03df84c64a86289a1911da074, type: 2}
+  plantDatabase: {fileID: 11400000, guid: 719dd67fa8dd19d42805fefa77155e01, type: 2}
+  generalDatabase: {fileID: 11400000, guid: 6c342d061d5ed004c8a85ceb7c59c93c, type: 2}

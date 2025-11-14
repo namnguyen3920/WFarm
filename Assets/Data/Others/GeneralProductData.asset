@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b68ff1a35ba85f449f0745cf4f2e06f, type: 3}
+  m_Name: GeneralProductData
+  m_EditorClassIdentifier: 
+  itemList:
+  - _id: milk
+    displayName: Milk
+    itemPrefab: {fileID: 0}
+    itemSprite: {fileID: 21300000, guid: eba12163f47911b46a1a44462068f347, type: 3}
+    productPrice: 0
+    itemCategory: 2
+    item: 0
+    itemType: 1
+    itemDataIdLink: 
+  - _id: seed_tomato
+    displayName: Tomato Seed
+    itemPrefab: {fileID: 0}
+    itemSprite: {fileID: 21300000, guid: fdd0d3b12485dcb4cb7d074731192911, type: 3}
+    productPrice: 70
+    itemCategory: 0
+    item: 1
+    itemType: 3
+    itemDataIdLink: seed_tomato
+  - _id: seed_blueberry
+    displayName: Blueberry Seed
+    itemPrefab: {fileID: 0}
+    itemSprite: {fileID: 21300000, guid: d274c77c7379f0e4bba3148f164f9be7, type: 3}
+    productPrice: 90
+    itemCategory: 0
+    item: 5
+    itemType: 3
+    itemDataIdLink: seed_blueberry
+  - _id: seed_strawberry
+    displayName: Strawberry Seed
+    itemPrefab: {fileID: 0}
+    itemSprite: {fileID: 21300000, guid: 59201ae5b6d6ace429d8923990d5c25a, type: 3}
+    productPrice: 110
+    itemCategory: 0
+    item: 3
+    itemType: 3
+    itemDataIdLink: seed_strawberry
+  - _id: cow
+    displayName: Cow
+    itemPrefab: {fileID: 0}
+    itemSprite: {fileID: 21300000, guid: e93695a272cf41045a3fe52fd13ad25d, type: 3}
+    productPrice: 2000
+    itemCategory: 3
+    item: 0
+    itemType: 3
+    itemDataIdLink: 
+  - _id: worker
+    displayName: Worker
+    itemPrefab: {fileID: 0}
+    itemSprite: {fileID: 21300000, guid: b1e31d10736eb5749a8145d2d30e2ef5, type: 3}
+    productPrice: 500
+    itemCategory: 3
+    item: 0
+    itemType: 3
+    itemDataIdLink: 
+  - _id: field
+    displayName: Field
+    itemPrefab: {fileID: 0}
+    itemSprite: {fileID: 21300000, guid: 8b2b34a66de4c8644b8572e8099f38ac, type: 3}
+    productPrice: 500
+    itemCategory: 3
+    item: 0
+    itemType: 3
+    itemDataIdLink: 
