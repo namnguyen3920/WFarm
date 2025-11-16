@@ -1,4 +1,4 @@
-# 🌾 WFarm - Idle Farm Management Sim
+# WFarm - Idle Farm Management Sim
 
 **A farm management simulation game built using Unity.**
 
@@ -27,7 +27,7 @@ I focused on developing core gameplay and structure systems to ensure scalabilit
 
 ---
 
-## ▶️ Gameplay Demonstration
+## Gameplay Demonstration
 
 For a brief, visual overview of the systems in action, please watch the gameplay demo linked below:
 
@@ -37,13 +37,13 @@ For a brief, visual overview of the systems in action, please watch the gameplay
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 * **Game Engine:** Unity6 (Version 54)
 * **Language:** C#
 * **Data Serialization:** CSV files (used for initial configuration: starting items, store inventory, game settings)
 
-## 📌 Setup and Getting Started
+## Setup and Getting Started
 
 1.  Clone the repository.
 2.  Open the project in Unity.
