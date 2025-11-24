@@ -47,7 +47,7 @@ For a brief, visual overview of the systems in action, please watch the gameplay
 
 1.  Clone the repository.
 2.  Open the project in Unity.
-3.  Load the **[Main Scene Name]** scene.
+3.  Load the **[Gameplay]** scene.
 4.  Press Play.
 
 ---
